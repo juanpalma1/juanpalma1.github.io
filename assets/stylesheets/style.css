@@ -30,6 +30,7 @@ p {
 
 a {
   color: white;
+  text-underline-offset: .3rem;
 }
 
 .hidden {
