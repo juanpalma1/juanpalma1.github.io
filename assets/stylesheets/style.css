@@ -35,3 +35,13 @@ a {
 .hidden {
   visibility: hidden;
 }
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 14px;
+  }
+  
+  p {
+    font-size: 12px;
+  }
+}
