@@ -36,7 +36,7 @@ a {
   visibility: hidden;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 812px) {
   main {
     margin: 20px;
   }
