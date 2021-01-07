@@ -1,0 +1,14 @@
+body {
+  background: url('/../images/universe.jpg');
+  color: white;
+  font-family: sans-serif;
+}
+
+h1,
+p {
+  background-color: black;
+}
+
+.hidden {
+  display: none;
+}
