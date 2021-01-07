@@ -16,6 +16,7 @@ p {
   display: table;
   font-weight: normal;
   letter-spacing: .2rem;
+  line-height: 2.5rem;
   padding: 5px;
 }
 
