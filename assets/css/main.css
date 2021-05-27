@@ -2400,6 +2400,10 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+			
+		#self {
+			border-radius: 100%;
+		}
 
 /* List */
 
