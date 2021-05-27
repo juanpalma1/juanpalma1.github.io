@@ -2401,7 +2401,7 @@ input, select, textarea {
 				width: 100%;
 			}
 			
-		#self {
+		.image.fit #self {
 			border-radius: 100%;
 			width: auto;
 		}
