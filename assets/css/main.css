@@ -2403,7 +2403,9 @@ input, select, textarea {
 			
 		.image.fit #self {
 			border-radius: 100%;
-			width: auto;
+			display: inline-block;
+			max-width: 400px;
+			min-width: 100px;
 		}
 
 /* List */
